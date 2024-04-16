@@ -1,0 +1,34 @@
+
+
+1  - Ajouter le css en bas de index.css
+*************************************
+/* CSS ajouté */
+.body-main {
+  max-width: 1024px;
+  width: 100%;
+}
+
+.body-image5247567523081151992334087216999711163547648n1 {
+  object-fit: cover;
+}
+
+.creative-commons img {
+  display: inline;
+}
+
+.body-text002,
+.body-text004 {
+  flex-grow: none;
+  width: 400px;
+}
+
+2 - ajouter les lien de linkedin 
+*************************************
+
+3 - Avec hcat gpt, remplacer ajouter les liens aux bouton : https://docs.google.com/spreadsheets/d/1PYt6m50Tt-u2stfQcNzGlmwc9NmiOF7m6jIFZlGic6Q/edit#gid=0
+*************************************
+Dans cette liste, html, remplace les span de "Voir un aperçu" , "Télécharger PDF", et "Télécharger les corrigés" par un a avec les lien correspondant dans ce tableau . Ces liens doivent etre en target blank
+
+
+4 - copilot : ajoute aux lien contenant "telecharger pdf" le css text-decoration: none; 
+*************************************
