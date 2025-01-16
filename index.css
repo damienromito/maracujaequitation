@@ -1278,3 +1278,7 @@
   flex-grow: none;
   width: 400px;
 }
+
+.body-gold p {
+  margin: 20px 0;
+}
